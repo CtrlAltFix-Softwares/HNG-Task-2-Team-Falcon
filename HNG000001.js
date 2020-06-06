@@ -1,6 +1,6 @@
 function message() { 
-
- var fullName = "Azubuike Nnamdi Clement";
+ 
+var fullName = "Azubuike Nnamdi Clement";
 
 var hngId = "HNG-03331";
 
