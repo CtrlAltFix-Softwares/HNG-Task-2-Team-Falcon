@@ -1,5 +1,5 @@
 function message() { 
- var fullName = "Azubuike Nnamdi Clement";
+var fullName = "Azubuike Nnamdi Clement";
 var hngId = "HNG-03331";
 var email = "blessedmarcel1@gmail.com";
 var language = "JavaScript";
